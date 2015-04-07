@@ -1,0 +1,9 @@
+[user]
+	email = pmmuley@gmail.com
+	name = Prasad Muley
+[core]
+	editor = emacs24
+[alias]
+	st = status
+[push]
+	default = tracking
