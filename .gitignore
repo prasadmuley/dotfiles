@@ -1,4 +1,4 @@
-*.pyc
+*.py[co]
 *.bak
 *.swp
 *.log
@@ -33,3 +33,21 @@ nonsetests
 # Remove temporary files
 *~
 *#
+
+# Web2Py stuff
+
+uploads
+languages
+databases
+scripts/Dev-Ops
+sessions
+cache
+errors
+private
+parameters_*
+00.py
+.reviewboardrc
+
+# Django stuff
+
+local_settings.py
