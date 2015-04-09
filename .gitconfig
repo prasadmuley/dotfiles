@@ -33,6 +33,3 @@
 
 [push]
 	default = tracking
-
-[remote]
-   url = https://prasadmuley@github.com
