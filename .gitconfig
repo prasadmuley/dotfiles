@@ -31,5 +31,7 @@
     # display number of commits (merged in master) of contributor
     rank-with-merges = shortlog -sn
 
+	# display changes of branch compared to master
+	br-diff = diff master..HEAD
 [push]
 	default = tracking
