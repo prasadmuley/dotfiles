@@ -21,7 +21,7 @@ Twisted-Core==13.2.0
 Twisted-Names==13.2.0
 Twisted-Web==13.2.0
 WebOb==1.4
-Werkzeug==0.9.4
+Werkzeug==0.15.3
 XlsxWriter==0.5.1
 adium-theme-ubuntu==0.3.4
 apt-xapian-index==0.45
