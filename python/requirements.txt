@@ -107,7 +107,7 @@ python-firebase==1.2
 python-openid==2.2.5
 python-saml==2.0.0
 pytz==2012c
-pyxdg==0.25
+pyxdg==0.26
 reportlab==3.0
 repoze.who==2.2
 requests==2.5.1
