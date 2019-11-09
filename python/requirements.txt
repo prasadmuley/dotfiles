@@ -105,7 +105,7 @@ python-dateutil==1.5
 python-debian==0.1.21-nmu2ubuntu2
 python-firebase==1.2
 python-openid==2.2.5
-python-saml==2.0.0
+python-saml==2.4.0
 pytz==2012c
 pyxdg==0.25
 reportlab==3.0
