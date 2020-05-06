@@ -93,7 +93,7 @@ pylint==1.4.0
 pylint-web2py==0.1.2
 pymongo==2.6.3
 pyparsing==2.0.1
-pysaml2==2.1.0
+pysaml2==5.0.0
 pyserial==2.6
 pysmbc==1.0.14.1
 pysqlite==2.6.3
