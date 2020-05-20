@@ -51,7 +51,7 @@ execnet==1.2.0
 fbterminal==0.2.1
 flake8==2.1.0
 html5lib==0.999
-httplib2==0.8
+httplib2==0.18.0
 ipdb==0.8
 ipython==1.2.1
 isodate==0.5.0
