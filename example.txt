@@ -1,3 +1,0 @@
-unstaged changes in this file
-showing git diff example
-showing two way merged 
